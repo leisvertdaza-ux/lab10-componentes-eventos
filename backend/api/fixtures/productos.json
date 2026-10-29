@@ -1,0 +1,4 @@
+[
+  {"model": "api.producto", "pk": 1, "fields": {"descripcion": "Coca cola", "precio": "2.33"}},
+  {"model": "api.producto", "pk": 2, "fields": {"descripcion": "Fanta", "precio": "1.70"}}
+]
